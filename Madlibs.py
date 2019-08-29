@@ -1,6 +1,10 @@
 
-print ("Hello world")
 
-color = input ("Enter a colorL ")
+adjective = input ("Enter a adjective ")
+nationality = input ("Enter a nationality")
+named = input ("Enter a name")
 
-print("ROses are " + color)
+
+print("Pizza was invented by a  " + adjective)
+print(nationality)
+print("chef named" + named)
