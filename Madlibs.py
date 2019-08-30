@@ -14,6 +14,7 @@ number = input ("Enter a number")
 shape = input ("Enter a shape")
 food = input ("Enter a food")
 second_food = input ("Enter second_food")
+second_number = input ("Enter a second_number")
 
 
-print("Pizza was invented by a  " + adjective + nationality + " chef named " + named + ". to make a pizza, you need to take a lump of" + noun + " gitand make a thin, round" + second_adjective + second_noun + "." + "Then you cover it with " + third_adjective + "Sauce " + forth_adjective + " cheese, and fresh chopped " + Plural_noun + "NEst you have to bake it in a very hot " + third_noun + "When it is done, cut it into " + number + shape + "." + "Some kids like " + food + "Pizza the best, but my favorite is the " + second_food + "pizza." + "If I could, I would eat pizza" )
+print("Pizza was invented by a  " + adjective + nationality + " chef named " + named + ". to make a pizza, you need to take a lump of" + noun + " gitand make a thin, round" + second_adjective + second_noun + "." + "Then you cover it with " + third_adjective + "Sauce " + forth_adjective + " cheese, and fresh chopped " + Plural_noun + "Next you have to bake it in a very hot " + third_noun + "When it is done, cut it into " + number + shape + "." + "Some kids like " + food + "Pizza the best, but my favorite is the " + second_food + "pizza." + "If I could, I would eat pizza " + second_number + "times a day!"  )
